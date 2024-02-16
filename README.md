@@ -60,3 +60,7 @@ RET
 8. 8位ALU
 9. 8位CPU
 10. 汇编微程序
+
+全文发布到了我的知乎专栏：
+https://zhuanlan.zhihu.com/p/682459679
+
